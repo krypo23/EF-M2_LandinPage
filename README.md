@@ -1,7 +1,6 @@
 # Portfolio Profesional V1 🚀
 
-![Portfolio Preview](./assets/preview.png)
-*(Nota: Reemplaza esta ruta con tu imagen real)*
+![Portfolio Preview](./assets/img/landingPage.png)
 
 ## 📝 Descripción
 Primera versión de mi portfolio profesional. Este proyecto actúa como una *landing page* estática enfocada en la presentación de proyectos de un Producto Ficticio Llamado Pentest Go, estructurada con marcado semántico y diseño responsivo sin depender de frameworks externos. 
